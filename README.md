@@ -1,6 +1,6 @@
 # Flask API Starter
 
-This is the simplest possible python api using gunicorn: 
+This is the simplest possible python server using uvicorn: 
 ```
 Hello, world!
 ```
@@ -20,7 +20,7 @@ Install: `bin/install`
 - installs dependencies from `requirements.txt`
 
 Run: `bin/start`
-- runs a `gunicorn` server
+- runs a `uvicorn` server
 
 
 ## Questions / Help
