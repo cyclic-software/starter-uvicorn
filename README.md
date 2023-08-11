@@ -1,4 +1,4 @@
-# Flask API Starter
+# Uvicorn Server Starter
 
 This is the simplest possible python server using uvicorn: 
 ```
